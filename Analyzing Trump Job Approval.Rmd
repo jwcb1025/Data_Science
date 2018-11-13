@@ -1,0 +1,64 @@
+---
+title: "Analyzing Trump Job Approval 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Analyzing Trump Job Approval
+##Import Libraries
+```{r}
+library(readr)
+library(tidyverse)
+library(lubridate)
+library(zoo)
+```
+
+##Import Data
+```{r}
+approval_polllist <- read_csv("~/Data_Science/Analyzing Trump Job Approval/approval_polllist.csv")
+```
+
+##Process Data
+Examine Dataset and Extract Gallup Polls
+```{r}
+head(approval_polllist)
+gallup_poll <- approval_polllist %>%
+  filter(pollster == "Gallup")
+```
+
+Since we're interested in recent trump approval ratings, let's simply look at year to date approval for 2018.
+```{r}
+#Create year from end date column
+gallup_poll <- gallup_poll %>%
+  mutate(year = year(mdy(enddate))) %>%
+  filter(year == 2018)
+```
+
+Now let's look at avergae monthly approval for 2018
+```{r}
+#Summarise
+gallup_poll %>%
+  mutate(month = months(mdy(enddate))) %>%
+  group_by(month) %>%
+  summarise(avg_approval = mean(approve)) 
+
+```
+
+Let's calculate a moving average of the polls and visualize with ggplot
+```{r}
+gallup_poll <- gallup_poll %>% 
+  mutate(Date = mdy(enddate)) %>%
+  arrange(Date)
+
+gallup_poll <- gallup_poll %>%
+  mutate(AvgApprove = rollmean(approve, 10, na.pad=TRUE, align = "right"))
+
+ggplot(data = gallup_poll, aes(x=Date,y=AvgApprove)) + 
+  geom_line()
+
+```
+
+We can see that Trump's approval has increased this past year, but not by much.  With a min of 38 and max of 42, the range has stayed between +/- 4 pts.
