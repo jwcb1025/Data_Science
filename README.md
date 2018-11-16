@@ -4,5 +4,5 @@ Repository containing portfolio of data science projects completed by me for aca
 *Note: Professional projects may contain masked code and/or high level overviews of code where such information is considered proprietary.*
 
 ## Contents
-- ### Machine Learning
- - [Predicting Ethnicity using Name and Census Data]
+* ### Machine Learning
+  * [Estimating Ethnicity Using Name and Census Data](http://rpubs.com/jwcb1025/est_ethnicity)
