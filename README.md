@@ -5,6 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 * ### Machine Learning
-  * [Estimating Ethnicity Using Name and Census Data](http://rpubs.com/jwcb1025/est_ethnicity)
+  * [Automated Valuation Model (AVM) for Predicting Home Prices](http://rpubs.com/jwcb1025/AVM)
+  * [Predicting Ethnicity Using Name and Census Data](http://rpubs.com/jwcb1025/est_ethnicity)
 * ### Finance
   * [Quantstrat Asset Trading Strategy](http://rpubs.com/jwcb1025/quantstrat_trading_strategy)
