@@ -10,6 +10,7 @@ Repository containing portfolio of data science projects completed by me for aca
   * [Comparing ETS and ARIMA Methods to Forecast Residential Energy Use](http://rpubs.com/jwcb1025/forecast_residential_energy)
 * ### Finance
   * [Quantstrat Asset Trading Strategy](http://rpubs.com/jwcb1025/quantstrat_trading_strategy)
-  * [Cryptocurrency Exploratory Data Analysis (EDA)](http://rpubs.com/jwcb1025/crypto_eda)
 * ### EDA
   * [Analyzing Bitcoin Twitter Sentiment](http://rpubs.com/jwcb1025/BTC_twitter_sentiment)
+  * [Cryptocurrency Exploratory Data Analysis (EDA)](http://rpubs.com/jwcb1025/crypto_eda)
+
