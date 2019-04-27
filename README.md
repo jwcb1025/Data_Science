@@ -5,7 +5,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 * ### Apps
-  * [Predicting Ethnicity Using Name and Location](https://jcmlapps.shinyapps.io/Predicting-Ethnicity-Using-Name-Zip/)
+  * [Predicting Ethnicity Using Name and Location (Teaser)](https://jcmlapps.shinyapps.io/teaserEthPred/)
+  * [Predicting Ethnicity Using Name and Location (File Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
   * [Visualizing Crypto Twitter Sentiment](https://jcmlapps.shinyapps.io/twitter_sentiment/)
 * ### Machine Learning
   * [Automated Valuation Model (AVM) for Predicting Home Prices](http://rpubs.com/jwcb1025/AVM)
