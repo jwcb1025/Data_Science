@@ -5,6 +5,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 * ### Apps
+  * [MSA Index](https://jcmlapps.shinyapps.io/MSA_Index/)
   * [Predicting Ethnicity Using Name and Location (Teaser)](https://jcmlapps.shinyapps.io/teaserEthPred/)
   * [Predicting Ethnicity Using Name and Location (File Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
   * [Visualizing Crypto Twitter Sentiment](https://jcmlapps.shinyapps.io/twitter_sentiment/)
