@@ -10,7 +10,7 @@ Repository containing portfolio of data science projects completed by me for aca
   * [Predicting Ethnicity Using Name and Location (File Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
   * [Visualizing Crypto Twitter Sentiment](https://jcmlapps.shinyapps.io/twitter_sentiment/)
 * ### Machine Learning
-  * [Interest Rate Time Series Forecast Using LSTM (RNN Neural Network](http://rpubs.com/jwcb1025/int_rate_lstm)
+  * [Interest Rate Time Series Forecast Using LSTM (RNN Neural Network)](http://rpubs.com/jwcb1025/int_rate_lstm)
   * [Automated Valuation Model (AVM) for Predicting Home Prices](http://rpubs.com/jwcb1025/AVM)
   * [Using MLS Listing Description to Predict Home Sale/List Ratio](http://rpubs.com/jwcb1025/listing_description_pred)
   * [Predicting Ethnicity Using Name and Census Data](http://rpubs.com/jwcb1025/est_ethnicity)
