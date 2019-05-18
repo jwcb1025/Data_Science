@@ -14,6 +14,7 @@ Repository containing portfolio of data science projects completed by me for aca
   * [Automated Valuation Model (AVM) for Predicting Home Prices](http://rpubs.com/jwcb1025/AVM)
   * [Using MLS Listing Description to Predict Home Sale/List Ratio](http://rpubs.com/jwcb1025/listing_description_pred)
   * [Predicting Ethnicity Using Name and Census Data](http://rpubs.com/jwcb1025/est_ethnicity)
+  * [Using Median Home Value to Predict Income](http://rpubs.com/jwcb1025/income_home_value)
   * [Comparing ETS and ARIMA Methods to Forecast Residential Energy Use](http://rpubs.com/jwcb1025/forecast_residential_energy)
 * ### Finance
   * [Quantstrat Asset Trading Strategy](http://rpubs.com/jwcb1025/quantstrat_trading_strategy)
