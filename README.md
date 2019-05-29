@@ -5,10 +5,11 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 * ### Apps
-  * [MSA Index](https://jcmlapps.shinyapps.io/MSA_Index/)
-  * [Predicting Ethnicity Using Name and Location (Teaser)](https://jcmlapps.shinyapps.io/teaserEthPred/)
-  * [Predicting Ethnicity Using Name and Location (File Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
-  * [Visualizing Crypto Twitter Sentiment](https://jcmlapps.shinyapps.io/twitter_sentiment/)
+  * [Find Sellers - Real Estate Seller Lead Generation Using AI](https://findsellers.com)
+  * [Neighmo - Real Estate Intelligence Platform](https://neighmo.com)
+  * [MSA Index - Real Estate Technical Analysis Charting Tool](https://jcmlapps.shinyapps.io/MSA_Index/)
+  * [Political - Predicting Ethnicity Using Name and Location (Single Input)](https://jcmlapps.shinyapps.io/teaserEthPred/)
+  * [Political -Predicting Ethnicity Using Name and Location (Batch Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
 * ### Machine Learning
   * [Interest Rate Time Series Forecast Using LSTM (RNN Neural Network)](http://rpubs.com/jwcb1025/int_rate_lstm)
   * [Automated Valuation Model (AVM) for Predicting Home Prices](http://rpubs.com/jwcb1025/AVM)
@@ -21,3 +22,6 @@ Repository containing portfolio of data science projects completed by me for aca
 * ### EDA
   * [Analyzing Bitcoin Twitter Sentiment](http://rpubs.com/jwcb1025/BTC_twitter_sentiment)
   * [Cryptocurrency Exploratory Data Analysis (EDA)](http://rpubs.com/jwcb1025/crypto_eda)
+  * [Visualizing Crypto Twitter Sentiment (Interactive)](https://jcmlapps.shinyapps.io/twitter_sentiment/)
+  * [Visualizing Southern California Home Sale Turnover Rate by Zip Code (Interactive)](https://public.tableau.com/shared/8MBF46XKR?:display_count=yes&:origin=viz_share_link)
+  
