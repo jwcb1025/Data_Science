@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for aca
 * ### Apps
   * [Find Sellers - Real Estate Seller Lead Generation Using AI](https://findsellers.com)
   * [Neighmo - Real Estate Intelligence Platform](https://neighmo.com)
-  * [MSA Index - Real Estate Technical Analysis Charting Tool](https://jcmlapps.shinyapps.io/MSA_Index/)
+  * [MSA Index - Real Estate Technical Analysis Charting Tool](http://app.remarketview.com/search)
   * [Political - Predicting Ethnicity Using Name and Location (Single Input)](https://jcmlapps.shinyapps.io/teaserEthPred/)
   * [Political -Predicting Ethnicity Using Name and Location (Batch Upload)]( https://jcmlapps.shinyapps.io/Elektos_Eth_Upload/)
 * ### Machine Learning
